@@ -13,11 +13,11 @@ K -means clustering will attempt to divide the data into non-overlapping cluster
 K-means clustering is not well suited for clusters having complex shapes (Arvai, 2020).  I assumed the clustering shape would be spherical enough to meet this criterion. 
 
 ## Libraries
-** Data Manipulation**
+**Data Manipulation**
 * pandas
 * numpy
 
-** Data Visualization **
+**Data Visualization**
 * seaborn
 * matplotlib
 
